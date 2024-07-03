@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mostafa-Ben-Git?tab=repositories](https://github.com/Mostafa-Ben-Git?tab=repositories)
 
-- 💬 Ask me about **react , python , laravel**
+- 💬 Ask me about **ReactJS , Python , Laravel**
 
 - 📫 How to reach me **benmousamostafa03@gmail.com**
 
